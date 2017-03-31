@@ -1,4 +1,4 @@
-package test_store;
+package com.github.huorehu.test_store;
 
 public enum QueryCommands {
     
